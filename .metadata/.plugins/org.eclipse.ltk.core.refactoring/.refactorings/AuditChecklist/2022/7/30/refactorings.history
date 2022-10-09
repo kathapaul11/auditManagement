@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.cognizant.auditchecklist.exception&apos; to &apos;auditSeverity/src/main/java/com.cognizant.auditSeverity&apos;&#x0D;&#x0A;- Original project: &apos;AuditChecklist&apos;&#x0D;&#x0A;- Destination element: &apos;auditSeverity/src/main/java/com.cognizant.auditSeverity&apos;&#x0D;&#x0A;- Original element: &apos;AuditChecklist/src/main/java/com.cognizant.auditchecklist.exception&apos;" description="Copy package" destination="=auditSeverity/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cognizant.auditSeverity" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cognizant.auditchecklist.exception" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1658044646875" version="1.0"/>
+</session>
